@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcAsp.Net", "MvcAsp.Net\MvcAsp.Net.csproj", "{6C6347B0-35EC-4BA8-B2B3-5BFBB738625C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C6347B0-35EC-4BA8-B2B3-5BFBB738625C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C6347B0-35EC-4BA8-B2B3-5BFBB738625C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C6347B0-35EC-4BA8-B2B3-5BFBB738625C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C6347B0-35EC-4BA8-B2B3-5BFBB738625C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
