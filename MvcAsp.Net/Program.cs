@@ -1,10 +1,15 @@
+using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Http;
+using Microsoft.Extensions.DependencyInjection;
+using System.Net.Mime;
+using System.Text;
+
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddControllersWithViews();
 var app = builder.Build();
 
 // Ajouter les services de vue
-app.Services.AddControllersWithViews();
 
-app.MapGet("/", () => "Hello World!");
 app.UseRouting();
 
 app.MapControllerRoute(

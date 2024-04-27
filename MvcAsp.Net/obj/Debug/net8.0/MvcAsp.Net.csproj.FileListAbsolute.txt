@@ -25,3 +25,9 @@
 /home/jaures/RiderProjects/MvcAsp.Net/MvcAsp.Net/obj/Debug/net8.0/MvcAsp.Net.pdb
 /home/jaures/RiderProjects/MvcAsp.Net/MvcAsp.Net/obj/Debug/net8.0/MvcAsp.Net.genruntimeconfig.cache
 /home/jaures/RiderProjects/MvcAsp.Net/MvcAsp.Net/obj/Debug/net8.0/ref/MvcAsp.Net.dll
+/home/jaures/RiderProjects/MvcAsp.Net/MvcAsp.Net/obj/Debug/net8.0/MvcAsp.Net.sourcelink.json
+/home/jaures/RiderProjects/MvcAsp.Net/MvcAsp.Net/bin/Debug/net8.0/Microsoft.DotNet.PlatformAbstractions.dll
+/home/jaures/RiderProjects/MvcAsp.Net/MvcAsp.Net/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/jaures/RiderProjects/MvcAsp.Net/MvcAsp.Net/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/jaures/RiderProjects/MvcAsp.Net/MvcAsp.Net/obj/Debug/net8.0/MvcAsp.Net.csproj.AssemblyReference.cache
+/home/jaures/RiderProjects/MvcAsp.Net/MvcAsp.Net/obj/Debug/net8.0/MvcAsp.Net.csproj.CopyComplete
