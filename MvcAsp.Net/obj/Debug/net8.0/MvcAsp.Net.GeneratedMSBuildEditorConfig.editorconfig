@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /home/jaures/RiderProjects/MvcAsp.Net/MvcAsp.Net
 build_property._RazorSourceGeneratorDebug = 
 
+[/home/jaures/RiderProjects/MvcAsp.Net/MvcAsp.Net/Views/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcmllcy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/jaures/RiderProjects/MvcAsp.Net/MvcAsp.Net/Views/Categories/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcmllcy9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
