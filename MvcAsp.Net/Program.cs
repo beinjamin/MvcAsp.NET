@@ -7,6 +7,7 @@ using System.Text;
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 var app = builder.Build();
+app.UseStaticFiles();
 
 // Ajouter les services de vue
 
