@@ -1,11 +1,19 @@
 {
   "Version": 1,
-  "Hash": "/WIBdDT8RlK2GkdxR4x49PDkcVA47U3FlUHYcCS6ZOQ=",
+  "Hash": "0zsD1syZep9cb7hyjMk+R0cZNsSXAQwXkCIEH8uQRBA=",
   "Source": "MvcAsp.Net",
   "BasePath": "_content/MvcAsp.Net",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MvcAsp.Net/wwwroot",
+      "Source": "MvcAsp.Net",
+      "ContentRoot": "/home/jaures/RiderProjects/MvcAsp.Net/MvcAsp.Net/wwwroot/",
+      "BasePath": "_content/MvcAsp.Net",
+      "Pattern": "**"
+    }
+  ],
   "Assets": []
 }

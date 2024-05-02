@@ -26,15 +26,27 @@
             <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                 
                 <ul class="navbar-nav flex-grow-1">
-
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" href="/home/index">Accueil</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" href="/categories/index">Categories</a>
+                    </li>
                 </ul>
             </div>
         </div>
     </nav>
 </header>
 <div>
-    <div class="container"></div>
-    @RenderBody()
+    <div class="container">
+        <div class="pb-3">
+            @RenderSection("title") 
+            <hr/>
+        </div>
+        <div>
+            @RenderBody()
+        </div>
+    </div>
 
 </div>
 </body>

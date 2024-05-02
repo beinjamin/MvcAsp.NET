@@ -31,3 +31,4 @@
 /home/jaures/RiderProjects/MvcAsp.Net/MvcAsp.Net/bin/Debug/net8.0/Newtonsoft.Json.dll
 /home/jaures/RiderProjects/MvcAsp.Net/MvcAsp.Net/obj/Debug/net8.0/MvcAsp.Net.csproj.AssemblyReference.cache
 /home/jaures/RiderProjects/MvcAsp.Net/MvcAsp.Net/obj/Debug/net8.0/MvcAsp.Net.csproj.CopyComplete
+/home/jaures/RiderProjects/MvcAsp.Net/MvcAsp.Net/bin/Debug/net8.0/MvcAsp.Net.staticwebassets.runtime.json
